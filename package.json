@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jee14k/jeevankoshy.github.io.git"
+    "url": "git+https://github.com/jeevankoshy/jeevankoshy.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jee14k/jeevankoshy.github.io/issues"
+    "url": "https://github.com/jeevankoshy/jeevankoshy.github.io/issues"
   },
-  "homepage": "https://github.com/jee14k/jeevankoshy.github.io#readme",
+  "homepage": "https://github.com/jeevankoshy/jeevankoshy.github.io#readme",
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.52.0",
